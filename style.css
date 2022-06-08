@@ -1,0 +1,28 @@
+#app{
+    background-color: blue;
+}
+.line{
+    width: 70px;
+    height: 5px;
+    background-color: black;
+    margin-left: 920px;
+    margin-right: 700px;
+}
+body{
+    text-align: center;
+}
+#games{
+    background-color: orange;
+}
+#myCarousel{
+    background-color: orange;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
